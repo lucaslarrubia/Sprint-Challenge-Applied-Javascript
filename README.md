@@ -44,7 +44,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 4. Why would we convert a NodeList into an Array?
 
--  To iterate over it with forEach
+-  To iterate over it with forEach.
 
 5. What is a component?
 
